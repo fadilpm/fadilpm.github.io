@@ -64,7 +64,7 @@ img {
   background: #c13584;
   border-color: #c13584;
 }
-.snapchat {
+.github {
   border: 1px solid #646d6d;
   border-radius: 15px;
   background: #646d6d;
@@ -75,7 +75,7 @@ img {
   color: white;
   width: 30%;
 }
-.snapchat:hover {
+.github:hover {
   background: #ffd700;
   border-color: #ffd700;
 }
@@ -137,7 +137,7 @@ img {
   .instagram {
     font-size: 0px;
   }
-  .snapchat {
+  .github {
     font-size: 0px;
   }
   .telegram {
@@ -158,7 +158,7 @@ img {
     font-size: 15px;
     text-align: center;
   }
-  .snapchat {
+  .github {
     font-size: 15px;
     text-align: center;
   }
@@ -182,7 +182,7 @@ img {
     font-size: 0px;
     text-align: center;
   }
-  .snapchat {
+  .github {
     font-size: 0px;
     text-align: center;
   }
@@ -205,7 +205,7 @@ img {
   .instagram {
     font-size: 0px;
   }
-  .snapchat {
+  .github {
     font-size: 0px;
   }
   .telegram {
