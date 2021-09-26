@@ -109,14 +109,17 @@ img {
   background: #1da1f2;
   border-color: #1da1f2;
 }
-.footer {
-  padding: 10px 10px;
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  color: white;
-  text-align: center;
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer a {
+    text-shadow: 0.5px 0.5px 10px !important;
+    animation: hueanim 10s infinite linear !important;
+    color: #0FF !important;
+    font-weight: bold !important;
 }
 .social-media a{
     position:relative;
